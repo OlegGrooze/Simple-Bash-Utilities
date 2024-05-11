@@ -1,0 +1,13 @@
+The new esports standard
+
+The Swift 360Hz PG27AQN features a 27-inch 1440p ASUS UltraFast IPS panel that’s capable of supporting refresh rates of up to 360 Hz. NVIDIA researchers found that using a 27-inch 1440p display can improve aim by up to 3%, compared to playing on a traditional 1080p 24-inch display.
+
+UltraFast IPS technology includes three key features that enable it to deliver the fastest response time of any LCD monitor that’s currently available. It uses a new kind of liquid crystal that offers higher birefringence and lower viscosity, allowing the liquid crystals to twist quickly and make space for light to pass through. Secondly, the flow pattern of the new liquid crystals has been optimized for efficiency. Previously, the crystals were lined up parallel to the polarizer surface. The new arrangement allows the liquid crystals to turn faster, enabling a faster response time. And finally, conventional displays use a single-layer voltage driver to twist the liquid crystals from the upper-left to the bottom-right corner. The PG27AQN features a new dual-layer voltage driver design, so the liquid crystals twist from the upper-left and bottom-right corners simultaneously for a smoother, more consistent image.
+
+Ultra-responsive performance
+
+The built-in NVIDIA G-SYNC processor in Swift 360Hz PG27AQN allows gamers to experience incredibly smooth, tear-free gameplay at refresh rates of up to 360 Hz with ultra-low motion blur. Plus, inclusion of the NVIDIA Reflex Analyzer captures end-to-end system latency for a precise measure of PC performance. Gamers will also appreciate the Esports Dual Format 25” Mode feature that lets them play at a more familiar 25-inch diagonal screen size in 1080p, up to a super sharp 2368 x 1332 resolution.
+
+HDR technology
+
+HDR technology gives the Swift 360Hz PG27AQN a wider color range and higher contrast than traditional monitors, allowing it to showcase the brightest whites and the darkest blacks to bring out details like never before. A peak brightness of 600 nits enables the PG27AQN to meet DisplayHDR™ 600 certification requirements.

@@ -1,0 +1,29 @@
+TAIPEI, Taiwan, November 11, 2022 — ASUS today announced the TUF Gaming Radeon™ RX 7900 XT and Radeon RX 7900 XTX, the first two graphics cards in its new AMD Radeon RX 7900 Series product line.
+
+Providing more stream processors and higher-bandwidth memory interfaces than the previous generation, they deliver exceptional performance and superb energy efficiency to power high-framerate 4K and higher resolution gaming in the most demanding titles and are ready to contend for a place of honor in gaming rigs everywhere.
+
+The new graphics cards are built on the AMD RDNA™ 3 architecture, the world’s first gaming GPU to feature an advanced AMD chiplet design. The breakthrough architecture delivers up to 54% more performance per watt than AMD RDNA 2 architecture , and features the world’s fastest interconnect linking the graphics and memory system chiplets at up to 5.3 TB/s . It also offers up to 96 new unified compute units and second-generation AMD Infinity Cache™ technology. It also includes increased AI throughput that delivers up to 2.7X higher AI performance 3, and second-generation raytracing technology that provides up to 1.8X higher raytracing architectural performance in select titles versus a graphics card built with AMD RDNA 2 architecture.
+
+Pull into pole position with the TUF Gaming Radeon RX 7900 XTX
+
+As the new frontrunner in the ASUS Radeon RX graphics card family, the TUF Gaming Radeon RX 7900 XTX pushes the series to new performance heights. This 3.63-slot card offers a whopping 6,144 stream processors. For those looking for lots of bandwidth and plentiful pools of VRAM, the TUF Gaming Radeon RX 7900 XTX graphics card offers both: 24 GB of GDDR6 memory and a 384-bit memory interface.
+
+Durable materials and a reinforced construction make the TUF Gaming Radeon RX 7900 XTX a tenacious warrior. Its exceptionally strong structure is more than equal to the task of protecting the PCB from sagging. It starts with a rigid die-cast frame to which a sturdy backplate and shroud are melded, both made of aluminum. ASUS also included a graphics card holder in the box to keep this graphics card perfectly aligned over time.
+
+A new cooling design empowers the GPU to run at full throttle. A wider vent on the backplate opens up even more room for airflow. Plus, total heat dissipation area has been increased by a full 22.8%, and an expanded opening along the edge of the backplate allows even more air to flow through the fins from the Axial-tech fans.
+
+The fans are both larger and more effective for this generation. They provide 13.8% more airflow and 8% more static pressure compared to the last generation, all while spinning at lower RPMs and producing a similarly low amount of noise. A Dual BIOS switch lets users choose between performance and quiet modes, or they can get to manual tweaking with ASUS GPU Tweak III software.
+
+Advanced connectivity lets users reap the advantages of the latest gaming monitors on the market. They will find an HDMI® 2.1 port on the TUF Gaming Radeon RX 7900 XTX and a trio of DisplayPort™ 2.1 ports.
+
+To provide will the necessary power, the TUF Gaming Radeon RX 7900 XTX graphics card uses three 8-pin power connectors. This supplies a robust power delivery system featuring 20K-rated capacitors and a spread of high-current power stages arranged in a will 17+4 configuration. In addition, the ASUS Auto-Extreme manufacturing process offers robust longevity that lives up to the TUF name, so users can be confident that their top-tier card will power through games for years to come.
+
+Upgrade AMD-powered rigs with the TUF Gaming Radeon RX 7900 XT
+
+The TUF Gaming Radeon RX 7900 XT offers key upgrades over the last-generation Radeon RX 6900 XT graphics card, including a larger 20 GB pool of GDDR6 RAM, 5,376 stream processors, and a wider 320-bit memory interface. Its supporting cast includes many of the same design elements as the TUF Gaming Radeon RX 7900 XTX graphics card. From the die-cast frame, the aluminum shroud and backplate and the 3.63-slot design, to the updated 3D acrylic TUF logo with ARGB lighting on the edge of the shroud, this graphics card features a complete set of the latest ASUS innovations.
+
+The TUF Gaming Radeon RX 7900 XT graphics card truly flexes Its muscles when it comes to thermal performance. At the same total board power (TBP) as the l Radeon RX 6900 XT graphics card, it runs cooler under load while producing similar noise levels — and offering more performance.
+
+Power up PCs with the right PSU
+
+The TUF Gaming Radeon RX 7900 XTX and TUF Gaming Radeon RX 7900 XT boast exceptional gaming performance. As users plan their next-gen rig, they are invited to pair their new graphics card with a premium ASUS power supply unit (PSU). The new TUF Gaming Gold PSUs are designed to provide everything users need. For the RX 7900 XTX, ASUS recommends a PSU that delivers at least 800 watts; the TUF Gaming 850W Gold will fit the bill nicely. For the RX 7900XT, ASUS recommends a PSU that delivers at least 750 watts, making the TUF Gaming 750W Gold an easy choice. With high-quality components, quiet operation and a 10-year warranty, users know their PC is in good hands.
